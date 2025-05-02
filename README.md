@@ -3,11 +3,12 @@ Drive an Arduino Uno from an Adafruit Huzzah32
 
 ## Usage
 Upload https://github.com/MAKIO135/Uno32/blob/main/examples/uno/uno.ino on an Arduino Uno or equivalent and do the following wiring:  
-  Huzzah32      Uno  
-  USB       ->  Vin  
-  GND       ->  GND  
-  16        ->  1  
-  17        ->  0  
+|Huzzah32|Uno|
+|--------|---|
+|   USB  |Vin|
+|   GND  |GND|
+|   16   | 1 |
+|   17   | 0 |
 
 Then drive the Uno from the Huzzah32 using Uno32 library:
 ```cpp
