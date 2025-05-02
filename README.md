@@ -48,6 +48,6 @@ void loop() {
 
 ## Gerber
 Gerber made with [EasyEDA](https://easyeda.com/) is freely available.  
-
+![IMG_20250430_141554](https://github.com/user-attachments/assets/0cc4074f-58c8-460d-b8e0-b061b7d01232)  
 ![IMG_20250430_141554](https://github.com/user-attachments/assets/480f26b4-2f19-4977-ac82-04aca75529f0)  
 ![IMG_20250430_141612](https://github.com/user-attachments/assets/fc4d0ee5-6463-4da5-9f46-48b73aebf9b3)
